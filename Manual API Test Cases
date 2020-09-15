@@ -1,0 +1,15 @@
+Verify for Get Request Response code is 200
+Verify Headers and Param
+Verify Payload is valid
+Verify end to end  CRUD operation
+Verify all the node in Response 
+Verify correct values are present in each node- 
+ex-
+fairings
+links
+reddit
+flickr
+presskit  etc..
+Verify Response header
+Verify API with different data parameter
+Verify different error codes as per requirement

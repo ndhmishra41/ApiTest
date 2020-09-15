@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12391" started-at="2020-05-02T09:20:38Z" finished-at="2020-05-02T09:20:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12391" started-at="2020-05-02T09:20:38Z" finished-at="2020-05-02T09:20:50Z">
+      <class name="jsonassert.FileDownload">
+        <test-method status="PASS" signature="verifyDownloadedFile()[pri:0, instance:jsonassert.FileDownload@2d9d4f9d]" name="verifyDownloadedFile" duration-ms="12363" started-at="2020-05-02T09:20:38Z" finished-at="2020-05-02T09:20:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDownloadedFile -->
+      </class> <!-- jsonassert.FileDownload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
